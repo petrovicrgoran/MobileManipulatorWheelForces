@@ -3,6 +3,8 @@ Simulation of a mobile manipulator on a flat surface with normal wheel forces as
 
 https://arxiv.org/abs/2202.10186
 
+[![View MobileManipulatorWheelForces on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/108379-mobilemanipulatorwheelforces)
+
 
 Extr_Data_Mesh.m file, used to generate the floor lines, is a property of MathWorks, Inc.
 and has been redistributed here from https://se.mathworks.com/matlabcentral/fileexchange/64648-matlab-and-simulink-racing-lounge-vehicle-modeling-with-simscape-multibody per below:
