@@ -1,4 +1,6 @@
 # MobileManipulatorWheelForces
+Simulation of a mobile manipulator on a flat surface with normal wheel forces as the main focus:
+
 https://arxiv.org/abs/2202.10186
 
 
