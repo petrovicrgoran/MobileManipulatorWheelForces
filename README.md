@@ -1,7 +1,12 @@
 # MobileManipulatorWheelForces
-Simulation of a mobile manipulator on a flat surface with normal wheel forces as the main focus:
 
-https://arxiv.org/abs/2202.10186
+MATLAB/Simulink simulation files for investigating normal wheel forces in 4-wheeled mobile manipulators.
+
+Simulation files follow the calculation procedure presented in the IEEE Access paper
+
+10.1109/ACCESS.2022.3169766
+
+Attached .STEP files jointly constitue the Simscape model and the provided .m files contain all the required parameters to run the simulation. Simulation .slx files are provided for two different MATLAB versions.
 
 [![View MobileManipulatorWheelForces on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/108379-mobilemanipulatorwheelforces)
 
