@@ -6,7 +6,7 @@ Simulation files follow the calculation procedure presented in the IEEE Access p
 
 10.1109/ACCESS.2022.3169766
 
-Attached .STEP files jointly constitue the Simscape model and the provided .m files contain all the required parameters to run the simulation. Simulation .slx files are provided for two different MATLAB versions.
+Attached .STEP files jointly constitute the Simscape model and the provided .m files contain all the required parameters to run the simulation. Simulation .slx files are provided for two different MATLAB versions.
 
 [![View MobileManipulatorWheelForces on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/108379-mobilemanipulatorwheelforces)
 
