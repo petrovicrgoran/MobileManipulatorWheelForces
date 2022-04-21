@@ -1,31 +1,23 @@
-# MobileManipulatorWheelForces
+# Analytic Solutions For Wheel Mobile Manipulator Supporting Forces
+The repository contains Simulink model and MATLAB code for calculation of the supporting forces in 4-wheeled mobile manipulator per the proposed approach in:
 
-MATLAB/Simulink simulation files for investigating normal wheel forces in 4-wheeled mobile manipulators.
+https://arxiv.org/abs/2202.10186
 
-Simulation files follow the calculation procedure presented in the IEEE Access paper
+# Requirements
+The simulation is performed in MATLAB/Simulink. Simulink Simscape Multibody Add-On libraries are required and MATLAB version 2020a or newer.
 
-10.1109/ACCESS.2022.3169766
+# Usage
+Make the main folder as a working folder, initialize simulation parameters running the .m files and run the .slx model.
 
-Attached .STEP files jointly constitute the Simscape model and the provided .m files contain all the required parameters to run the simulation. Simulation .slx files are provided for two different MATLAB versions.
+# Licence
+See LICENSE.txt for licencing information.
+
+# Find it also at MATLAB Central File Exchange
 
 [![View MobileManipulatorWheelForces on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/108379-mobilemanipulatorwheelforces)
 
+# Acknowledgement
 
-Extr_Data_Mesh.m file, used to generate the floor lines, is a property of MathWorks, Inc.
-and has been redistributed here from https://se.mathworks.com/matlabcentral/fileexchange/64648-matlab-and-simulink-racing-lounge-vehicle-modeling-with-simscape-multibody per below:
+Credit for the manipulator arm CAD models goes to Dr Janne Koivumäki.
 
-Copyright (c) 2017, The MathWorks, Inc.
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
-
-* Redistributions in binary form must reproduce the above copyright notice,
-  this list of conditions and the following disclaimer in the documentation
-  and/or other materials provided with the distribution.
-* In all cases, the software is, and all modifications and derivatives of the
-  software shall be, licensed to you solely for use in conjunction with
-  MathWorks products and service offerings.
+Check out his list of publications https://scholar.google.fi/citations?user=Llrx-nsAAAAJ&hl=fi
