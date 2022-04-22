@@ -14,7 +14,7 @@ See LICENSE.txt for licencing information.
 
 # Find it also at MATLAB Central File Exchange
 
-[![View MobileManipulatorWheelForces on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/108379-mobilemanipulatorwheelforces)
+[![View Mobile Manipulator Wheel Forces on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/108379-mobile-manipulator-wheel-forces)
 
 # Acknowledgement
 
