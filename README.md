@@ -1,7 +1,7 @@
 # Analytic Solutions For Wheel Mobile Manipulator Supporting Forces
 The repository contains Simulink model and MATLAB code for calculation of the supporting forces in 4-wheeled mobile manipulator per the proposed approach in:
 
-https://arxiv.org/abs/2202.10186
+https://ieeexplore.ieee.org/document/9762293
 
 # Requirements
 The simulation is performed in MATLAB/Simulink. Simulink Simscape Multibody Add-On libraries are required and MATLAB version 2020a or newer.
