@@ -1,4 +1,4 @@
-# Analytic Solutions For Wheel Mobile Manipulator Supporting Forces
+# Analytic Solutions For Wheeled Mobile Manipulator Supporting Forces
 The repository contains Simulink model and MATLAB code for calculation of the supporting forces in 4-wheeled mobile manipulator per the proposed approach in:
 
 https://ieeexplore.ieee.org/document/9762293
